@@ -26,14 +26,14 @@ This is a simple Node.js command-line game where the player competes against the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/mimo.git
+   git clone https://github.com/vikitobroni/mimo-course.git
    ```
 
 ### How to Run the Game
 
 1. Navigate to the directory where the game is located:
    ```bash
-   cd mimo/even-or-odd
+   cd mimo-course/even-or-odd
    ```
 2. Install the dependencies:
    ```bash
