@@ -15,6 +15,7 @@ This is a simple Node.js command-line game where the player competes against the
 2. The player selects a number between 1 and 5.
 3. The computer randomly chooses its number and determines its choice based on the player's choice.
 4. The game calculates the sum of both numbers and declares the winner.
+5. The game continues until the player win streams 3 times.
 
 ## Getting Started
 
